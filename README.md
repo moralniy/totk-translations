@@ -5,6 +5,7 @@ WIP:
 - Ukrainian translations
 
 Join our community!
+
 Translate: https://crowdin.com/project/zelda-totk-ukrainian
 
 Telegram: https://t.me/etherlang
